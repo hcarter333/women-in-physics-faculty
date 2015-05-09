@@ -10,13 +10,19 @@
 # It is primarily meant to be used for larger organizations where a company-wide
 # headcount may be difficult to obtain, but more localized information may be
 # available.
-[quip]
-        company: Quip
-        num_female_eng: 4
-        num_eng: 14
-        last_updated: 2015-01-07
-[polyvore]
-	company: Polyvore
-	num_female_eng: 13
-	num_eng: 50
-	last_updated: 2014-11-03
+[texasamcollegestation]
+        company: Texas A&M College Station
+        num_female_eng: 8
+        num_eng: 85
+        last_updated: 2015-05-09
+[nmsu]
+	company: New Mexico State University
+	num_female_eng: 2
+	num_eng: 17
+	last_updated: 2015-05-09
+[texasstate]
+	company: Imgur
+	num_female_eng: 6
+	num_eng: 22
+	last_updated: 2015-05-09
+	
