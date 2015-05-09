@@ -10,7 +10,7 @@ import re
 
 from gdata.spreadsheet import service as ss_service
 
-SS_KEY = '0AlZH8QBl60oodEJTdFA5TlZOcDJCMU02RkZoSHF5SHc'
+SS_KEY = '1b3T8zmcNhemx5akaV0kqMtOHuZoFgJ1H91UuDBXUEAI'
 WORKSHEET_ID = 'od6'
 
 ss_client = None
